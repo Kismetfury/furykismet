@@ -1,1 +1,43 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  background-color: lightcyan;
+  background-image: url("https://i.postimg.cc/nzz6c70f/FA60-BBD5-3-E83-4757-BE75-27-AF93-AA8489.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  width: 100%;
+}
+
+h1 {
+  font-size: 40px;
+  border: 3px solid white;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 30px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: skyblue;
+}
+
+main {
+  text-align: center;
+  width: 400px;
+}
+
+a {
+  color: white;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 0 40px;
+  margin: 40px auto;
+  text-align: center;
+  border: 5px solid yellow;
+}
 
